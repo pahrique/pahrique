@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou o Paulo H. 👋
 
-<!--
-**Paulohps2005/Paulohps2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software na PUC Minas, focado em QA Automation.
+Construindo uma base sólida para entrar no mercado em 2026.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que estou usando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+## 🚀 Projetos em andamento
+
+| Projeto | Descrição | Status |
+|---|---|---|
+| [qa-api-tests-petstore](https://github.com/pahrique/qa-api-tests-petstore) | Testes de API REST com Postman | 🔄 Em breve |
+| [qa-selenium-saucedemo](https://github.com/pahrique/qa-selenium-saucedemo) | Automação web com Selenium + Python | 🔄 Em breve |
+| [qa-ci-pipeline](https://github.com/pahrique/qa-ci-pipeline) | Pipeline CI/CD com GitHub Actions | 🔄 Em breve |
+
+## 📈 Trajetória
+
+```
+Agora → QA Automation Jr
+Durante a faculdade → SDET (automação + CI/CD)
+Pós-faculdade → AI Engineer (LLM · RAG · LangChain)
+```
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pahrique)
