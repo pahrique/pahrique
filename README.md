@@ -29,4 +29,4 @@ Pós-faculdade → AI Engineer (LLM · RAG · LangChain)
 
 ## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/pahrique-souza/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pahrique-souza/)
